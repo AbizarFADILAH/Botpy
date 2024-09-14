@@ -1,3 +1,4 @@
+#!/bin/python
 import telebot
 
 api 7414300092:AAFl3VHliu9eSnxO0ahYZQAS0vQkvSq8QU0
